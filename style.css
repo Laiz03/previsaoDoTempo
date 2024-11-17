@@ -13,8 +13,8 @@ body{
     display: flex;
     justify-content: center; /*Alinha no eixo horizontal*/
     align-items: center;  /*Alinha no eixo vertical*/
-    /*background-image: url("image.png");*/
-    background-color: #000;
+    background-image: url("image.png");
+    /*background-color: #000;*/
 }
 
 .caixa-maior{
