@@ -13,7 +13,7 @@ body{
     display: flex;
     justify-content: center; /*Alinha no eixo horizontal*/
     align-items: center;  /*Alinha no eixo vertical*/
-    background-image: url("image.png");
+    background-image: url("image.jpg");
     /*background-color: #000;*/
 }
 
